@@ -1,0 +1,33 @@
+Jeremy Bowers is the killer.
+
+CL History:
+    3  cd Week_1
+    4  cd command-line-murder-mystery
+    5  history
+    6  ls
+    7  cat instructions
+    8  cd mystery
+    9  ls
+   10  cat crimescene | grep CLUE
+   11  cat people | grep Annabel
+   12  head -n 179 streets/Buckingham_Place | tail -n 1
+   13  cat interviews/interview-699607
+   14  grep -A 5 L337 Blue Honda mystery/vehicles
+   15  ls
+   16  cd ..
+   17  grep -A 5 L337 Blue Honda mystery/vehicles
+   18  ls
+   19  cd mystery
+   20  cat people | grep Jeremy
+   21  head -n 284 streets/Dunstable_Road | tail -n 1
+   22  cat interviews/interview-9620713
+   23  pwd
+   24  cd ..
+   25  ls
+   26  cat hint8
+   27  ls
+   28  cd mystery/memberships
+   29  catUnited_MileagePlus | grep Jeremy Bowers | wc -l
+   30  cat United_MileagePlus | grep Jeremy Bowers | wc -l
+   31  history
+
